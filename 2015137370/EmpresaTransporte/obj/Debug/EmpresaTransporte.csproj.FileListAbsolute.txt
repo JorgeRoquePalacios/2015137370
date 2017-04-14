@@ -1,0 +1,11 @@
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte\bin\Debug\EmpresaTransporte.exe.config
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte\bin\Debug\EmpresaTransporte.exe
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte\bin\Debug\EmpresaTransporte.pdb
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte\bin\Debug\EmpresaTransporte.Entities.dll
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte\bin\Debug\EmpresaTransporte.Entities.pdb
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.exe
+E:\Proyectos\Visual Studio Projects\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.pdb
+C:\Users\Adrian\Desktop\qwertyui\2015137370\EmpresaTransporte\bin\Debug\EmpresaTransporte.exe.config
+C:\Users\Adrian\Desktop\qwertyui\2015137370\EmpresaTransporte\obj\Debug\EmpresaTransporte.exe
+C:\Users\Adrian\Desktop\qwertyui\2015137370\EmpresaTransporte\obj\Debug\EmpresaTransporte.pdb
